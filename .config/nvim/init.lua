@@ -1,1 +1,2 @@
-require("dimad.core")
+require("dikiyd.core")
+require("dikiyd.lazy")
