@@ -16,6 +16,9 @@ echo $SHELL
 ```
 
 ### Step 3: Install [Oh-My-Zsh](https://github.com/ohmyzsh/ohmyzsh)
+```bash
+wget https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh -O - | zsh
+```
 
 ### Step 4: Create symlink for existing .zshrc file
 ```bash
