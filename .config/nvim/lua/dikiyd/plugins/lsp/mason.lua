@@ -27,6 +27,7 @@ return {
         "lua_ls",
         "pylsp",
         "pyright",
+        "gopls"
       },
     })
     mason_tool_installer.setup({
