@@ -90,7 +90,7 @@ return {
           filetypes = { "go", "gomod", "gowork" },
           settings = {
             gopls = {
-              completeUnimoorted = true,
+              completeUnimported = true,
               usePlaceholders = true,
               analyses = {
                 unusedparams = true,
